@@ -51,6 +51,10 @@ table {
 	border-spacing: 0;
 }
 
+.image {
+    margin-bottom: 20px;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
@@ -1306,7 +1310,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("images/overlay.png"), url("images/headlands_view.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
